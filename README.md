@@ -1,4 +1,9 @@
-## Hi there 👋
+## Palliora
+
+We're actively preparing our repositories for open source release.
+
+If you're interested in early access, partnerships, or collaboration,  
+please contact us at **contact@palliora.org**.
 
 <!--
 **Palliora/Palliora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
